@@ -1,3 +1,1 @@
-# python
-
-复习一些python常见的代码
+# python 复习一些python常见的代码
